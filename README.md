@@ -28,5 +28,11 @@ data/
 notebook/
 images/
 
+## 📊 Visualizations
+
+![Prediction](images/actual_vs_predicted.png)
+![Residual](images/residual_plot.png)
+![Importance](images/feature_importance.png)
+
 ## 🙌 Author
 Sourabh Awasthi
